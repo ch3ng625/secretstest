@@ -19,6 +19,7 @@ namespace SecretsDemo
         public const string Production = "Production";
         public const string ProductionPass = "ghk!7^kh]9U(C8@}q?]?";
         public const string ProductionSiteName = "production.site";
+        public const string qasdfkkks = "fL/&398{xvQU";
     }
 
     class Secrets
